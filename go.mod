@@ -1,4 +1,4 @@
-module viper
+module github.com/braveghost/viper
 
 go 1.13
 
